@@ -73,9 +73,14 @@ The following link shows a walkthrough video that demonstrates the functionality
 <br>
 
 ## Screenshots
+user inputs in command line
+![User inputs](https://github.com/soniasebastian/svg-logo-maker/assets/130253087/97d15b24-b998-4e13-9092-6ca53b0b405b)
 
+logos generated
+![square](https://github.com/soniasebastian/svg-logo-maker/assets/130253087/6eafd651-fcdc-4595-bac1-5b42dee1ea6e)
+![circle](https://github.com/soniasebastian/svg-logo-maker/assets/130253087/5e2f1c8a-7c6b-4141-b2a0-c44406c7c608)
+![triangle](https://github.com/soniasebastian/svg-logo-maker/assets/130253087/1c4dddfa-cbaa-4858-b2e2-333476df3d21)
 
-  
 ## Contribution:
    Contributions are most welcome such as bug fixes, feature enhancements, documentation improvements and code optimization.
 
